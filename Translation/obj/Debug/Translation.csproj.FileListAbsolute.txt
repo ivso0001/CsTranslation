@@ -1,0 +1,11 @@
+C:\Users\Bang\Desktop\Translation\Translation\bin\Debug\Translation.exe.config
+C:\Users\Bang\Desktop\Translation\Translation\bin\Debug\Translation.exe
+C:\Users\Bang\Desktop\Translation\Translation\bin\Debug\Translation.pdb
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.csprojResolveAssemblyReference.cache
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.Form1.resources
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.Properties.Resources.resources
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.csproj.GenerateResource.Cache
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.exe
+C:\Users\Bang\Desktop\Translation\Translation\obj\Debug\Translation.pdb
+C:\Users\Bang\Desktop\Translation\Translation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bang\Desktop\Translation\Translation\bin\Debug\Newtonsoft.Json.xml
